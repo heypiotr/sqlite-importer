@@ -1,0 +1,6 @@
+*.gz
+!example.log.gz
+
+*.db
+
+sqlite-importer
